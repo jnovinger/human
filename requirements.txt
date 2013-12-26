@@ -5,7 +5,7 @@ Pillow==2.2.2
 Pillow-PIL==0.1dev
 South==0.8.4
 argparse==1.2.1
-boto==2.20.1
+boto==2.21.2
 dj-database-url==0.2.2
 dj-static==0.0.5
 django-storages==1.1.8
