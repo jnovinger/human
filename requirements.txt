@@ -1,4 +1,4 @@
-Django==1.8.1
+Django==1.8.2
 Jinja2==2.7.3
 MarkupSafe==0.23
 Pillow==2.8.1
@@ -10,7 +10,7 @@ dj-database-url==0.3.0
 dj-static==0.0.6
 django-storages==1.1.8
 django-toolbelt==0.0.1
-gevent==1.0.1
+gevent==1.0.2
 greenlet==0.4.7
 gunicorn==19.3.0
 honcho==0.6.6
